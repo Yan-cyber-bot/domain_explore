@@ -1,0 +1,6 @@
+torch>=2.0.0
+torchvision>=0.15.0
+numpy
+pandas
+Pillow
+openpyxl          # 用于读取 Excel 文件

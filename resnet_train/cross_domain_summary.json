@@ -1,0 +1,47 @@
+{
+    "accuracy": {
+        "in_domain": 0.7797998180163785,
+        "cross_domain": 0.6856158484065461,
+        "drop_percent": 12.077967631412585
+    },
+    "precision_macro": {
+        "in_domain": 0.5586834824022069,
+        "cross_domain": 0.5236777420874736,
+        "drop_percent": 6.265755372651584
+    },
+    "recall_macro": {
+        "in_domain": 0.5582650747796833,
+        "cross_domain": 0.4635990448049742,
+        "drop_percent": 16.957182931794296
+    },
+    "f1_macro": {
+        "in_domain": 0.5583531324155894,
+        "cross_domain": 0.45271483452305183,
+        "drop_percent": 18.919621250357668
+    },
+    "precision_weighted": {
+        "in_domain": 0.7778181985517967,
+        "cross_domain": 0.6612074587303753,
+        "drop_percent": 14.992030276295464
+    },
+    "recall_weighted": {
+        "in_domain": 0.7797998180163785,
+        "cross_domain": 0.6856158484065461,
+        "drop_percent": 12.077967631412585
+    },
+    "f1_weighted": {
+        "in_domain": 0.778678434689994,
+        "cross_domain": 0.6348475630280622,
+        "drop_percent": 18.471151280720065
+    },
+    "auc_macro": {
+        "in_domain": 0.9282326995002064,
+        "cross_domain": 0.820896721041371,
+        "drop_percent": 11.563477403524878
+    },
+    "auc_weighted": {
+        "in_domain": 0.913818251623415,
+        "cross_domain": 0.8344160811784809,
+        "drop_percent": 8.689054995769094
+    }
+}
